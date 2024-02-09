@@ -5,7 +5,7 @@
                   steps {
                       script {
                           
-                          bat 'python hello.py' 
+                          bat 'python Hello.py' 
                           
                       }
                   }
